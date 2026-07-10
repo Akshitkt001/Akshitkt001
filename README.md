@@ -15,7 +15,6 @@
 - 🌱 Currently learning **Kubernetes**, **System Design**, and **Distributed Systems**
 - 👯 Open to collaborating on **Open Source**, **AI/ML**, and **Backend Engineering**
 - 💬 Ask me about **Python, Java, Machine Learning, LLMs, Backend Development, APIs, and Search Systems**
-- 📫 Reach me at **akstiwari307@gmail.com**
 - ⚡ Fun fact: I enjoy solving real-world engineering problems through AI and scalable software.
 
 ---
@@ -98,10 +97,9 @@ Business intelligence dashboard for campaign performance analysis using Tableau.
 
 # 🏆 Certifications & Achievements
 
-- 🥇 Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
-- 🎓 Prime Minister's Scholarship Scheme Recipient
+- 🥇 Double Star Ranger at Salesforce Trailhead
 - 🏅 NPTEL Recognized Learner (2×)
-- 📄 Published research paper at ICAETC 2023
+- 📄 Published paper at Taylor & Francis (CRC Press London)
 - 🏆 Top Project Award – EmotiBridge
 
 ---
