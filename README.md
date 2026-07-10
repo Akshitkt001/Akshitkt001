@@ -35,8 +35,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshitkt001&show_icons=true&locale=en&layout=compact" alt="akshitkt001" /></p>
 
+### 🤝 Repositories I Contribute To
+
+[![Contributed Projects](https://vercel.app)](https://github.com)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitkt001&show_icons=true&locale=en" alt="akshitkt001" /></p>
 
-![My GitHub Stats](https://vercel.app)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitkt001&" alt="akshitkt001" /></p>
